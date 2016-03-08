@@ -21,13 +21,13 @@
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="0002dc9a-7a86-8000-2e72-014d98014d98"/>
             <a:contextExpr>={}</a:contextExpr>
             <a:visibilityExpr>=true()</a:visibilityExpr>
-            <a:refId>c59d0aa1-ee38-4dc8-93f4-0a21a68c4e76</a:refId>
+            <a:refId>5105be5e-5631-4a21-84b3-384480f64df9</a:refId>
         </a:relatedActionCfg>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="0002dc9a-7b41-8000-2e72-014d98014d98"/>
             <a:contextExpr>={}</a:contextExpr>
-            <a:visibilityExpr>=false()</a:visibilityExpr>
-            <a:refId>bf2a2f23-a087-4dec-b721-c78c7e52cbb5</a:refId>
+            <a:visibilityExpr>=true()</a:visibilityExpr>
+            <a:refId>6ad4c77c-f9c3-4c24-a12c-85c0e2056986</a:refId>
         </a:relatedActionCfg>
         <a:isSystem>true</a:isSystem>
         <a:dataSrcExpr>fn!queryuserrecord_appian_internal(rsp!query)</a:dataSrcExpr>
