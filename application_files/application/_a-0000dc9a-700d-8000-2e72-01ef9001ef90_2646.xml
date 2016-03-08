@@ -15,7 +15,7 @@
             <unlogged>false</unlogged>
         </visibility>
         <urlIdentifier>so7Jhg</urlIdentifier>
-        <published>false</published>
+        <published>true</published>
         <public>false</public>
         <associatedObjects>
             <globalIdMap>
@@ -41,7 +41,11 @@
                 </item>
                 <item>
                     <type>content</type>
-                    <uuids/>
+                    <uuids>
+                        <uuid>_a-0000dc9a-81e8-8000-2e72-01ef9001ef90_2669</uuid>
+                        <uuid>_a-0000dc9a-81e8-8000-2e72-01ef9001ef90_2671</uuid>
+                        <uuid>_a-0000dc9a-81e8-8000-2e72-01ef9001ef90_2672</uuid>
+                    </uuids>
                 </item>
                 <item>
                     <type>forum</type>
@@ -96,7 +100,14 @@
             </globalIdMap>
         </associatedObjects>
         <applicationNavigation/>
-        <applicationActions/>
+        <applicationActions>
+            <action>
+                <displayLabel>App 2 Related Action</displayLabel>
+                <description>Related Action for App 2</description>
+                <processModelUuid>0002dc9a-7b41-8000-2e72-014d98014d98</processModelUuid>
+                <actionUuid>f6feb6d9-eebc-4c73-bd42-3ee04d7e694a</actionUuid>
+            </action>
+        </applicationActions>
         <associatedApplications>
             <globalIdMap>
                 <item>
