@@ -29,4 +29,4 @@ Trace:
 2016-03-08 02:51:40.095 DEBUG recordType 1 SYSTEM_RECORD_TYPE_USER Processing reference: Role[name=record_type_administrator,groupIds=[9]]
 2016-03-08 02:51:40.096 DEBUG recordType 1 SYSTEM_RECORD_TYPE_USER Exporting binary resources.
 2016-03-08 02:51:40.096 DEBUG recordType 1 SYSTEM_RECORD_TYPE_USER Serializing object to XML.
-2016-03-08 02:51:40.097 DEBUG recordType 1 SYSTEM_RECORD_TYPE_USER Object transported. 
+2016-03-08 02:51:40.097 DEBUG recordType 1 SYSTEM_RECORD_TYPE_USER Object transported.
