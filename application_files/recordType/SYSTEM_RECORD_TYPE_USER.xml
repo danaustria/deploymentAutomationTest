@@ -19,15 +19,15 @@
         </a:defaultSortInfo>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="0002dc9a-7a86-8000-2e72-014d98014d98"/>
-            <a:contextExpr>=true()</a:contextExpr>
-            <a:visibilityExpr>=false()</a:visibilityExpr>
-            <a:refId>fe92e1ec-96aa-49d3-8ac4-b9afb0ce5a08</a:refId>
+            <a:contextExpr>={}</a:contextExpr>
+            <a:visibilityExpr>=true()</a:visibilityExpr>
+            <a:refId>c59d0aa1-ee38-4dc8-93f4-0a21a68c4e76</a:refId>
         </a:relatedActionCfg>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="0002dc9a-7b41-8000-2e72-014d98014d98"/>
-            <a:contextExpr>=true()</a:contextExpr>
+            <a:contextExpr>={}</a:contextExpr>
             <a:visibilityExpr>=false()</a:visibilityExpr>
-            <a:refId>bfaf0ee2-bf91-48e1-9e88-69e1baaf4c25</a:refId>
+            <a:refId>bf2a2f23-a087-4dec-b721-c78c7e52cbb5</a:refId>
         </a:relatedActionCfg>
         <a:isSystem>true</a:isSystem>
         <a:dataSrcExpr>fn!queryuserrecord_appian_internal(rsp!query)</a:dataSrcExpr>
